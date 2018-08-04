@@ -12,6 +12,8 @@ course material is covered in the notes.
 
 2 - Monty Hall problem [link](https://github.com/tpalczew/Bayesian-Machine-Learning-in-Python-A-B-Testing/blob/master/2%20-%20Monty_Hall.ipynb)
 
+3 - Precision and Recall and probabilities [link](https://github.com/tpalczew/Bayesian-Machine-Learning-in-Python-A-B-Testing/blob/master/3%20-%20Precision%20and%20Recall.ipynb)
+
 
 Course Content:
 
