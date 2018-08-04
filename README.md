@@ -10,7 +10,7 @@ course material is covered in the notes.
 
 1 - Bayes Rule and Probability review  [link](https://github.com/tpalczew/Bayesian-Machine-Learning-in-Python-A-B-Testing/blob/master/1%20-%20Bayes_Rule_and_Probability_review.ipynb)
 
-2 - 
+2 - Monty Hall problem [link](https://github.com/tpalczew/Bayesian-Machine-Learning-in-Python-A-B-Testing/blob/master/2%20-%20Monty_Hall.ipynb)
 
 
 Course Content:
