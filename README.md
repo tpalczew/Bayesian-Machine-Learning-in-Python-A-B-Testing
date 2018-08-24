@@ -14,6 +14,8 @@ course material is covered in the notes.
 
 3 - Precision and Recall and probabilities [link](https://github.com/tpalczew/Bayesian-Machine-Learning-in-Python-A-B-Testing/blob/master/3%20-%20Precision%20and%20Recall.ipynb)
 
+4 - Maximum Likelihood and Confidence Interval [link](https://github.com/tpalczew/Bayesian-Machine-Learning-in-Python-A-B-Testing/blob/master/4-Maximum_Likelihood_Confidence_Intervals%20.ipynb)
+
 
 Course Content:
 
